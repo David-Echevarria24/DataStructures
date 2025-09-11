@@ -1,0 +1,14 @@
+C:\DataStructures\PUSH1\bin\Debug\net8.0\PUSH1.exe
+C:\DataStructures\PUSH1\bin\Debug\net8.0\PUSH1.deps.json
+C:\DataStructures\PUSH1\bin\Debug\net8.0\PUSH1.runtimeconfig.json
+C:\DataStructures\PUSH1\bin\Debug\net8.0\PUSH1.dll
+C:\DataStructures\PUSH1\bin\Debug\net8.0\PUSH1.pdb
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.AssemblyInfoInputs.cache
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.AssemblyInfo.cs
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.csproj.CoreCompileInputs.cache
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.dll
+C:\DataStructures\PUSH1\obj\Debug\net8.0\refint\PUSH1.dll
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.pdb
+C:\DataStructures\PUSH1\obj\Debug\net8.0\PUSH1.genruntimeconfig.cache
+C:\DataStructures\PUSH1\obj\Debug\net8.0\ref\PUSH1.dll

@@ -1,0 +1,14 @@
+C:\DataStructures\POPandCLEAR1\bin\Debug\net8.0\POPandCLEAR1.exe
+C:\DataStructures\POPandCLEAR1\bin\Debug\net8.0\POPandCLEAR1.deps.json
+C:\DataStructures\POPandCLEAR1\bin\Debug\net8.0\POPandCLEAR1.runtimeconfig.json
+C:\DataStructures\POPandCLEAR1\bin\Debug\net8.0\POPandCLEAR1.dll
+C:\DataStructures\POPandCLEAR1\bin\Debug\net8.0\POPandCLEAR1.pdb
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.AssemblyInfoInputs.cache
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.AssemblyInfo.cs
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.csproj.CoreCompileInputs.cache
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.dll
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\refint\POPandCLEAR1.dll
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.pdb
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\POPandCLEAR1.genruntimeconfig.cache
+C:\DataStructures\POPandCLEAR1\obj\Debug\net8.0\ref\POPandCLEAR1.dll

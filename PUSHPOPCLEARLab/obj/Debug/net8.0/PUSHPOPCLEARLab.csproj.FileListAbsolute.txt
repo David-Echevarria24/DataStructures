@@ -1,0 +1,14 @@
+C:\DataStructures\PUSHPOPCLEARLab\bin\Debug\net8.0\PUSHPOPCLEARLab.exe
+C:\DataStructures\PUSHPOPCLEARLab\bin\Debug\net8.0\PUSHPOPCLEARLab.deps.json
+C:\DataStructures\PUSHPOPCLEARLab\bin\Debug\net8.0\PUSHPOPCLEARLab.runtimeconfig.json
+C:\DataStructures\PUSHPOPCLEARLab\bin\Debug\net8.0\PUSHPOPCLEARLab.dll
+C:\DataStructures\PUSHPOPCLEARLab\bin\Debug\net8.0\PUSHPOPCLEARLab.pdb
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.AssemblyInfoInputs.cache
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.AssemblyInfo.cs
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.csproj.CoreCompileInputs.cache
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.dll
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\refint\PUSHPOPCLEARLab.dll
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.pdb
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\PUSHPOPCLEARLab.genruntimeconfig.cache
+C:\DataStructures\PUSHPOPCLEARLab\obj\Debug\net8.0\ref\PUSHPOPCLEARLab.dll

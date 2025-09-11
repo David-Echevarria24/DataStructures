@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CircularQueue/CircularQueue.csproj" />
+  <Project Path="POPandCLEAR1/POPandCLEAR1.csproj" />
+  <Project Path="PUSH1/PUSH1.csproj" />
+  <Project Path="PUSHPOPCLEARLab/PUSHPOPCLEARLab.csproj" />
+  <Project Path="Queue1/Queue1.csproj" />
+</Solution>
