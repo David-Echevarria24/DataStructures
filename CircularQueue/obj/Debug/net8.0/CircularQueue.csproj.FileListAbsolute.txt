@@ -1,0 +1,15 @@
+C:\DataStructures\CircularQueue\bin\Debug\net8.0\CircularQueue.exe
+C:\DataStructures\CircularQueue\bin\Debug\net8.0\CircularQueue.deps.json
+C:\DataStructures\CircularQueue\bin\Debug\net8.0\CircularQueue.runtimeconfig.json
+C:\DataStructures\CircularQueue\bin\Debug\net8.0\CircularQueue.dll
+C:\DataStructures\CircularQueue\bin\Debug\net8.0\CircularQueue.pdb
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfoInputs.cache
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfo.cs
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.sourcelink.json
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.dll
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\refint\CircularQueue.dll
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.pdb
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\CircularQueue.genruntimeconfig.cache
+C:\DataStructures\CircularQueue\obj\Debug\net8.0\ref\CircularQueue.dll
