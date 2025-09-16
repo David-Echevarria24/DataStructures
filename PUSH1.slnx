@@ -1,8 +1,18 @@
 <Solution>
+  <Folder Name="/Asyn/">
+    <Project Path="Asyn/Await1/Await1.csproj" />
+    <Project Path="Asyn/Await2/Await2.csproj" />
+    <Project Path="Asyn/Await3/Await3.csproj" />
+  </Folder>
   <Project Path="CircularQueue/CircularQueue.csproj" />
+  <Project Path="Delegates1/Delegates1.csproj" />
+  <Project Path="Deque1/Deque1.csproj" />
   <Project Path="POPandCLEAR1/POPandCLEAR1.csproj" />
   <Project Path="PriorityQueue1/PriorityQueue1.csproj" />
   <Project Path="PUSH1/PUSH1.csproj" />
   <Project Path="PUSHPOPCLEARLab/PUSHPOPCLEARLab.csproj" />
   <Project Path="Queue1/Queue1.csproj" />
+  <Project Path="TaskManagment1/TaskManagment1.csproj" />
+  <Project Path="ThreadManagement1/ThreadManagement1.csproj" />
+  <Project Path="ThreadManagement2/ThreadManagement2.csproj" />
 </Solution>

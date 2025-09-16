@@ -1,0 +1,15 @@
+C:\DataStructures\ThreadManagement1\bin\Debug\net8.0\ThreadManagement1.exe
+C:\DataStructures\ThreadManagement1\bin\Debug\net8.0\ThreadManagement1.deps.json
+C:\DataStructures\ThreadManagement1\bin\Debug\net8.0\ThreadManagement1.runtimeconfig.json
+C:\DataStructures\ThreadManagement1\bin\Debug\net8.0\ThreadManagement1.dll
+C:\DataStructures\ThreadManagement1\bin\Debug\net8.0\ThreadManagement1.pdb
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.AssemblyInfoInputs.cache
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.AssemblyInfo.cs
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.csproj.CoreCompileInputs.cache
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.sourcelink.json
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.dll
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\refint\ThreadManagement1.dll
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.pdb
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ThreadManagement1.genruntimeconfig.cache
+C:\DataStructures\ThreadManagement1\obj\Debug\net8.0\ref\ThreadManagement1.dll

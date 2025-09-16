@@ -1,0 +1,15 @@
+C:\DataStructures\Asyn\Await1\bin\Debug\net8.0\Await1.exe
+C:\DataStructures\Asyn\Await1\bin\Debug\net8.0\Await1.deps.json
+C:\DataStructures\Asyn\Await1\bin\Debug\net8.0\Await1.runtimeconfig.json
+C:\DataStructures\Asyn\Await1\bin\Debug\net8.0\Await1.dll
+C:\DataStructures\Asyn\Await1\bin\Debug\net8.0\Await1.pdb
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.AssemblyInfoInputs.cache
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.AssemblyInfo.cs
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.csproj.CoreCompileInputs.cache
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.sourcelink.json
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.dll
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\refint\Await1.dll
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.pdb
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\Await1.genruntimeconfig.cache
+C:\DataStructures\Asyn\Await1\obj\Debug\net8.0\ref\Await1.dll

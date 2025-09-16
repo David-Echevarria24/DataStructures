@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PUSHPOPCLEARLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+927ff2ad9205538ab954e1350b5e002d36998893")]
 [assembly: System.Reflection.AssemblyProductAttribute("PUSHPOPCLEARLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PUSHPOPCLEARLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
